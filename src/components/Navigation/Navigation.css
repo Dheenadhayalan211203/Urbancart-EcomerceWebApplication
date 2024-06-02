@@ -1,0 +1,43 @@
+.navigation
+{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+   margin: 10px;
+   position: sticky;
+   top: 0;
+}
+.navigationbar
+{
+    display: flex;
+    gap: 20px;
+    padding-right: 30px;
+
+}
+.navigationbar a
+{
+text-decoration: none;
+color: white;
+padding: 5px;
+font-style: italic;
+
+
+}
+.navigationbar a:hover
+{
+    color: red;
+    border: 1px solid rgb(214, 212, 212);
+    box-shadow: 0 0 5px rgb(255, 255, 255);
+    
+}
+.logo img
+{
+   height: 50px;
+}
+.search input
+{
+    height: 30px;
+    width: 500px;
+    margin-top: 10px;
+    border-radius: 5px;
+}

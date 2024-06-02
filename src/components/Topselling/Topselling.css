@@ -1,0 +1,59 @@
+.topseling-container
+{
+    margin: 20px;
+    
+    padding: 20px;
+    
+}
+.header-topselling h1
+{
+      padding: 40px;
+}
+.topseling-card
+{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 30px;
+    border:  rgb(213, 211, 211) 2px solid ;
+    padding: 20px;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+.topseling-card img{
+    height: 500px;
+}
+.description-product
+{
+    color: grey;
+    text-align: justify;
+}
+.details-topselling img{
+    height: 20px;
+}
+.addtocart-button
+{
+padding-left: 20px;
+padding-right: 20px;
+padding-top: 30px;
+padding-bottom: 30px;
+font-size: 30px;
+background: rgb(215, 145, 54);
+color: white;
+border-radius: 10px;
+border: none;
+}
+.addtocart-button:hover
+{
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+    
+}
+.details-topselling h3
+{
+color: green;
+}
+.details-topselling h3 span
+{
+    color: black;
+}

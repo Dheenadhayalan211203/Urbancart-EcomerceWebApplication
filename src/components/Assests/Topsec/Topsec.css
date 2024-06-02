@@ -1,0 +1,37 @@
+.container
+{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    border: 2px solid rgb(237, 234, 234);
+    padding: 10px;
+}
+.socialmedia 
+{
+    display: flex;
+    gap: 10px;
+}
+.socialmedia img
+{
+    height: 20px;
+    
+}
+.accounts
+{
+    display: flex;
+    gap: 10px;
+}
+.accounts button
+{
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    font-style:oblique;
+    border-radius: 5px;
+    height: 30px;
+}
+.accounts button:hover
+{
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    
+}

@@ -1,0 +1,60 @@
+
+.whole-footer
+{
+    background-color: rgb(60, 59, 59);
+}
+.footer-container
+{
+    
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    gap: 50px;
+    
+    padding: 30px;
+    margin-top: 100px;
+    justify-content: space-evenly;
+}
+.left h1
+{
+    font-size:15px ;
+}
+.left p{
+    font-size: 15px;
+    color: grey;
+}
+.left p:hover{
+    color: pink;
+    
+}
+
+.center h1
+{
+    font-size:15px ;
+}
+.center p{
+    font-size: 15px;
+    color: grey;
+}
+.center p:hover{
+    color: pink;
+    
+}
+
+.right h1
+{
+    font-size:15px ;
+}
+.right p{
+    font-size: 15px;
+    color: grey;
+}
+.right p:hover{
+    color: pink;
+    
+}
+.copyrights
+{
+    color: rgb(182, 179, 174);
+    text-align: center;
+}

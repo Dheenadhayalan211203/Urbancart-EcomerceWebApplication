@@ -1,0 +1,15 @@
+
+.container-add
+{
+ display: flex;
+    overflow-x: auto;
+    
+    gap: 20px;
+    margin: 30px;
+}
+
+
+.container-add img{
+   width: 50%;
+    
+}

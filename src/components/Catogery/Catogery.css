@@ -1,0 +1,35 @@
+.cat-container
+{
+    display: flex;
+    gap: 50px;
+    margin: 20px;
+    justify-content: space-around;
+    border: rgb(213, 211, 211) 2px solid ;
+}
+.catcard
+{
+    margin: 20px;
+    padding: 20px;
+
+    
+    
+
+}
+
+.catcard:hover
+{
+    box-shadow: 0 0 5px black;
+    border-radius: 10px;
+
+
+}
+.catcard img{
+    height: 50px;
+}
+.cat-container a
+{
+    text-decoration: none;
+    color: black;
+    font-size: 10px;
+   
+}

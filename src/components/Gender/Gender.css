@@ -1,0 +1,75 @@
+.men-card img{
+    height: 100px;
+}
+.men-card
+{
+    display: flex;
+    box-shadow: 0 0 5px black;
+    border-radius: 5px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.mencard-desc-name{
+    color: rgb(237, 123, 142);
+}
+.mencard-desc-name span
+{
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.men-container
+{
+     
+    display: flex;
+    gap: 70px;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+    padding: 30px;
+    margin: 10px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px grey;
+    
+}
+.gend-container h2
+{
+   margin: 40px;
+}
+.women-container
+{
+      
+    display: flex;
+    gap: 70px;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 30px;
+    margin: 10px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px grey;
+    
+}
+.women-card
+{
+    
+    display: flex;
+    box-shadow: 0 0 5px black;
+    border-radius: 5px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.women-card img{
+    height: 100px;
+}
+.womencard-desc-name
+{
+    color: rgb(237, 123, 142);
+}
+.men-head
+{
+    color: blue;
+}
+.women-head
+{
+    color: rgb(254, 77, 106);
+}

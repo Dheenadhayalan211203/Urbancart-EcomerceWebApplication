@@ -1,0 +1,27 @@
+.newproduct-heading h1{
+    padding: 40px;
+}
+.newproduct-card
+{
+   margin: 30px;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgb(245, 242, 242);
+    
+}
+.newproduct-card img{
+    height: 300px;
+}
+.newproduct-card:hover
+{
+    box-shadow: 0 0 10px black;
+    border-radius: 10px;
+}
+.newproduct-container
+{
+    display: flex;
+    justify-content: space-evenly;
+   flex-wrap: wrap;
+  
+}

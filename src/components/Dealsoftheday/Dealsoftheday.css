@@ -1,0 +1,44 @@
+.deals-container {
+    margin-left: 60px;
+    margin-right: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.prodimg {
+    height: 200px;
+    border-radius: 5px;
+    width: 200px;
+}
+
+.img-rat {
+    height: 20px;
+}
+
+.dealname {
+    color: rgb(237, 18, 54);
+    font-weight: bold;
+}
+
+.dealdescp {
+    color: grey;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.deals-card {
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 0 0 1px black;
+    border-radius: 5px;
+    width: 300px;
+}
+
+.deals-card:hover {
+    background-color: rgb(249, 249, 249);
+    box-shadow: 0 0 10px black;
+}
+
+.deal-head h1 {
+    margin: 40px;
+}
